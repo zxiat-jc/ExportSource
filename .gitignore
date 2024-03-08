@@ -351,3 +351,4 @@ bin
 bin/
 
 CMakeSettings.json
+CMakeUserPresets.json
